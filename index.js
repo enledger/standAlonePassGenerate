@@ -1,10 +1,10 @@
 const wallet = require('./src/wallet.js');
 const util = require('./src/util.js');
 
-exports.generateMnemonic() {
-  return wallet.generateMnemonic();
-}
+var exports = module.exports = {};
 
-exports.deriveWallet() {
-  return wallet.deriveWallet();
-}
+module.exports = {
+  generateMnemonic: function() { return wallet.generateMnemonic(); },
+  deriveWallet: function() { return wallet.deriveWallet(); }
+};
+
