@@ -1,6 +1,6 @@
 {
   "name": "standAlonePassGenerate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "StandAlone Passphrase and Keypair Generator",
   "main": "index.js",
   "author": "Matt Bell <mappum@gmail.com>, Ryan Molecke <ryan.molecke@enledger.io>",

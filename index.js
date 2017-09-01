@@ -5,6 +5,6 @@ var exports = module.exports = {};
 
 module.exports = {
   generateMnemonic: function() { return wallet.generateMnemonic(); },
-  deriveWallet: function() { return wallet.deriveWallet(); }
+  deriveWallet: function(mnemonic) { return wallet.deriveWallet(mnemonic); }
 };
 
