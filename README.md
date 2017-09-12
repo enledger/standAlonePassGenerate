@@ -35,6 +35,21 @@ ENERGYCHAIN PRIVATE KEY (base58): GM5j2agjNF........
 
 ENERGYCHAIN PUBLIC ADDRESS: 0x08af6.......
 
+**Using your own mnemonic passphrase**
+
+use the -p flag, example:
+
+node ./standAlonePassGenerate.js -p 'attitude cage smoke shaft section ...'
+
+example output:
+
+Wallet DERIVED SUCCESSFULLY from user-provided mnemonic passphrase!
+
+ENERGYCHAIN PRIVATE KEY (hex): ff24fa3ab...
+
+ENERGYCHAIN PRIVATE KEY (base58): 2wNKhRb7m...
+
+ENERGYCHAIN PUBLIC ADDRESS: 0xf6733f2...
 
 
 
