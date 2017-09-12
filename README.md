@@ -39,17 +39,17 @@ ENERGYCHAIN PUBLIC ADDRESS: 0x08af6.......
 
 use the -p flag, example:
 
-node ./standAlonePassGenerate.js -p 'attitude cage smoke shaft section tunnel where lecture kidney delay flight install'
+node ./standAlonePassGenerate.js -p 'attitude cage smoke shaft section ...'
 
-example output: 
+example output:
 
 Wallet DERIVED SUCCESSFULLY from user-provided mnemonic passphrase!
 
-ENERGYCHAIN PRIVATE KEY (hex): ff24fa3abf60030cac01244bb4e09c8098b9844fe633c8b337a5641864db23b5
+ENERGYCHAIN PRIVATE KEY (hex): ff24fa3ab...
 
-ENERGYCHAIN PRIVATE KEY (base58): 2wNKhRb7mNttNtzwH6kRUfibcppMWLHr5pWLCwvfPyrDpxRKK9
+ENERGYCHAIN PRIVATE KEY (base58): 2wNKhRb7m...
 
-ENERGYCHAIN PUBLIC ADDRESS: 0xf6733f2ac2f716ca69cf6e74b1433275f3e991c0
+ENERGYCHAIN PUBLIC ADDRESS: 0xf6733f2...
 
 
 
